@@ -42,7 +42,7 @@
 
 * Concorrenza
 * Flussi paralleli
-* Operazioni terminal: Collezionisti
+* Operazioni terminal: ri-Collezionare
 * Creazione di stream personalizzati
 
 ---
